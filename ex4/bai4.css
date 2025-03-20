@@ -1,0 +1,38 @@
+section {
+    width: 1000px;
+    height: 170px;
+    background-color: #ffffff;
+}
+#content{
+    
+    width: 600px;
+    height: 100px;
+    background-color:#ffffff;
+    display: flex
+;
+    justify-content: flex-start;
+    position: relative;
+    align-items: stretch;
+    border-radius: 8px;
+}
+
+#daux {
+    font-size: 25px;
+    position: absolute;
+    right: 10px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+.tong {
+    
+    display: flex
+;
+    justify-content: center;
+}
+#content .p {
+    font-size: 25px;
+    padding-left: 30px;
+    display: flex;
+        align-items: center;
+    }
+
